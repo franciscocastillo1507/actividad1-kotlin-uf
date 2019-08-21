@@ -31,8 +31,7 @@ var caso3:ArrayList<Int> = arrayListOf(3,4,2,3,7) //2
 var caso4:ArrayList<Int> = arrayListOf(44,20,114,45,68,142,70,12,256) //2
 
 fun enterosPositivos(input:ArrayList<Int>):Int{
-    println(input.size)
-    //todo: Código
+    
     return 0
 }
 
